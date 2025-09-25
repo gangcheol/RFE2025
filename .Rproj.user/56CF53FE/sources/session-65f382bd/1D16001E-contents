@@ -1,0 +1,28 @@
+---
+title: "데이터 전처리"
+format: html
+editor: visual
+author: "gc"
+date: 09/25/2025
+---
+
+## 코드 test
+
+```{r}
+#| label: load-packages
+#| include: false
+library(ggplot2)
+library(palmerpenguins)
+```
+
+```{r}
+ggplot(data = penguins, aes(x = bill_length_mm, y = body_mass_g, color = species)) +
+  geom_point(size = 3, alpha = 0.7) +
+  labs(
+    title = "펭귄 종별 부리 길이와 체중 관계",
+    x = "부리 길이 (mm)",
+    y = "체중 (g)",
+    color = "종"
+  ) +
+  theme_minimal()
+```
