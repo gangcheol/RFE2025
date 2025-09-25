@@ -3,7 +3,7 @@
     "path": "D:/R/RFE2025/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "722922589",
+    "hash": "411922588",
     "contents": "",
     "dirty": false,
     "created": 1758760917621.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "32,28",
-        "scrollLine": "16"
+        "cursorPosition": "29,16",
+        "scrollLine": "14"
     },
     "folds": "",
-    "lastKnownWriteTime": 1758764595,
+    "lastKnownWriteTime": 1758769042,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1758764595117,
+    "last_content_update": 1758769042453,
     "read_only": false,
     "read_only_alternatives": []
 }

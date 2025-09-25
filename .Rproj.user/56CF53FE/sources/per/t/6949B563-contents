@@ -1,7 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
+  site-url: "https://gangcheol.github.io/RFE2025/home.html"
   title: "RFE2025"
   navbar:
     background: primary
@@ -9,7 +11,6 @@ website:
     left:
       - href: home.qmd
         text: "Home"
-      - about.qmd
     tools:
       - icon: twitter
         fref: https://twitter.com
@@ -26,7 +27,7 @@ website:
       - text: "Intro"
         href: Intro.qmd
       - section: 'Basics'
-        href: basics-summary.qmd
+        href: 데이터 전처리.qmd
         contents: 
           - text: "작성예정....."
           - text: "작성예정....."
