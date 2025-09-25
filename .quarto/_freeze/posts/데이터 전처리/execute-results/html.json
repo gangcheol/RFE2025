@@ -1,0 +1,17 @@
+{
+  "hash": "994637dae75385b36c2dab1d5a22a3f3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"데이터 전처리\"\nformat: html\neditor: visual\nauthor: \"gc\"\ndate: 09/25/2025\n---\n\n## 코드 test\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggplot(data = penguins, aes(x = bill_length_mm, y = body_mass_g, color = species)) +\n  geom_point(size = 3, alpha = 0.7) +\n  labs(\n    title = \"펭귄 종별 부리 길이와 체중 관계\",\n    x = \"부리 길이 (mm)\",\n    y = \"체중 (g)\",\n    color = \"종\"\n  ) +\n  theme_minimal()\n```\n\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: Removed 2 rows containing missing values or values outside the scale range\n(`geom_point()`).\n```\n\n\n:::\n\n::: {.cell-output-display}\n![](데이터-전처리_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n",
+    "supporting": [
+      "데이터-전처리_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

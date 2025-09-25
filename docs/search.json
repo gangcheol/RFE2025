@@ -1,25 +1,17 @@
 [
   {
-    "objectID": "데이터 전처리.html",
-    "href": "데이터 전처리.html",
+    "objectID": "posts/데이터 전처리.html",
+    "href": "posts/데이터 전처리.html",
     "title": "데이터 전처리",
     "section": "",
-    "text": "ggplot(data = penguins, aes(x = bill_length_mm, y = body_mass_g, color = species)) +\n  geom_point(size = 3, alpha = 0.7) +\n  labs(\n    title = \"펭귄 종별 부리 길이와 체중 관계\",\n    x = \"부리 길이 (mm)\",\n    y = \"체중 (g)\",\n    color = \"종\"\n  ) +\n  theme_minimal()\n\nWarning: Removed 2 rows containing missing values or values outside the scale range\n(`geom_point()`).",
-    "crumbs": [
-      "Home",
-      "Basics"
-    ]
+    "text": "ggplot(data = penguins, aes(x = bill_length_mm, y = body_mass_g, color = species)) +\n  geom_point(size = 3, alpha = 0.7) +\n  labs(\n    title = \"펭귄 종별 부리 길이와 체중 관계\",\n    x = \"부리 길이 (mm)\",\n    y = \"체중 (g)\",\n    color = \"종\"\n  ) +\n  theme_minimal()\n\nWarning: Removed 2 rows containing missing values or values outside the scale range\n(`geom_point()`)."
   },
   {
-    "objectID": "데이터 전처리.html#코드-test",
-    "href": "데이터 전처리.html#코드-test",
+    "objectID": "posts/데이터 전처리.html#코드-test",
+    "href": "posts/데이터 전처리.html#코드-test",
     "title": "데이터 전처리",
     "section": "",
-    "text": "ggplot(data = penguins, aes(x = bill_length_mm, y = body_mass_g, color = species)) +\n  geom_point(size = 3, alpha = 0.7) +\n  labs(\n    title = \"펭귄 종별 부리 길이와 체중 관계\",\n    x = \"부리 길이 (mm)\",\n    y = \"체중 (g)\",\n    color = \"종\"\n  ) +\n  theme_minimal()\n\nWarning: Removed 2 rows containing missing values or values outside the scale range\n(`geom_point()`).",
-    "crumbs": [
-      "Home",
-      "Basics"
-    ]
+    "text": "ggplot(data = penguins, aes(x = bill_length_mm, y = body_mass_g, color = species)) +\n  geom_point(size = 3, alpha = 0.7) +\n  labs(\n    title = \"펭귄 종별 부리 길이와 체중 관계\",\n    x = \"부리 길이 (mm)\",\n    y = \"체중 (g)\",\n    color = \"종\"\n  ) +\n  theme_minimal()\n\nWarning: Removed 2 rows containing missing values or values outside the scale range\n(`geom_point()`)."
   },
   {
     "objectID": "home.html",
@@ -29,25 +21,17 @@
     "text": "About\nSpecial Topics in R for Emergency Medical Services System"
   },
   {
-    "objectID": "Intro.html",
-    "href": "Intro.html",
+    "objectID": "posts/Intro.html",
+    "href": "posts/Intro.html",
     "title": "Intro",
     "section": "",
-    "text": "ggplot(data = penguins, aes(x = bill_length_mm, y = body_mass_g, color = species)) +\n  geom_point(size = 3, alpha = 0.7) +\n  labs(\n    title = \"펭귄 종별 부리 길이와 체중 관계\",\n    x = \"부리 길이 (mm)\",\n    y = \"체중 (g)\",\n    color = \"종\"\n  ) +\n  theme_minimal()\n\nWarning: Removed 2 rows containing missing values or values outside the scale range\n(`geom_point()`).",
-    "crumbs": [
-      "Home",
-      "Intro"
-    ]
+    "text": "ggplot(data = penguins, aes(x = bill_length_mm, y = body_mass_g, color = species)) +\n  geom_point(size = 3, alpha = 0.7) +\n  labs(\n    title = \"펭귄 종별 부리 길이와 체중 관계\",\n    x = \"부리 길이 (mm)\",\n    y = \"체중 (g)\",\n    color = \"종\"\n  ) +\n  theme_minimal()\n\nWarning: Removed 2 rows containing missing values or values outside the scale range\n(`geom_point()`)."
   },
   {
-    "objectID": "Intro.html#코드-test",
-    "href": "Intro.html#코드-test",
+    "objectID": "posts/Intro.html#코드-test",
+    "href": "posts/Intro.html#코드-test",
     "title": "Intro",
     "section": "",
-    "text": "ggplot(data = penguins, aes(x = bill_length_mm, y = body_mass_g, color = species)) +\n  geom_point(size = 3, alpha = 0.7) +\n  labs(\n    title = \"펭귄 종별 부리 길이와 체중 관계\",\n    x = \"부리 길이 (mm)\",\n    y = \"체중 (g)\",\n    color = \"종\"\n  ) +\n  theme_minimal()\n\nWarning: Removed 2 rows containing missing values or values outside the scale range\n(`geom_point()`).",
-    "crumbs": [
-      "Home",
-      "Intro"
-    ]
+    "text": "ggplot(data = penguins, aes(x = bill_length_mm, y = body_mass_g, color = species)) +\n  geom_point(size = 3, alpha = 0.7) +\n  labs(\n    title = \"펭귄 종별 부리 길이와 체중 관계\",\n    x = \"부리 길이 (mm)\",\n    y = \"체중 (g)\",\n    color = \"종\"\n  ) +\n  theme_minimal()\n\nWarning: Removed 2 rows containing missing values or values outside the scale range\n(`geom_point()`)."
   }
 ]

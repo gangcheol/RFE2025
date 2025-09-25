@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render: 
+    - index.qmd
+    - home.qmd
+    - posts/*
 website:
   site-url: "https://gangcheol.github.io/RFE2025/home.html"
   title: "RFE2025"
