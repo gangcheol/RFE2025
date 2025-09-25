@@ -14,13 +14,6 @@
     "text": "ggplot(data = penguins, aes(x = bill_length_mm, y = body_mass_g, color = species)) +\n  geom_point(size = 3, alpha = 0.7) +\n  labs(\n    title = \"펭귄 종별 부리 길이와 체중 관계\",\n    x = \"부리 길이 (mm)\",\n    y = \"체중 (g)\",\n    color = \"종\"\n  ) +\n  theme_minimal()\n\nWarning: Removed 2 rows containing missing values or values outside the scale range\n(`geom_point()`)."
   },
   {
-    "objectID": "home.html",
-    "href": "home.html",
-    "title": "RFE2025",
-    "section": "",
-    "text": "About\nSpecial Topics in R for Emergency Medical Services System\ndsadsd"
-  },
-  {
     "objectID": "posts/Intro.html",
     "href": "posts/Intro.html",
     "title": "Intro",
@@ -33,5 +26,12 @@
     "title": "Intro",
     "section": "",
     "text": "ggplot(data = penguins, aes(x = bill_length_mm, y = body_mass_g, color = species)) +\n  geom_point(size = 3, alpha = 0.7) +\n  labs(\n    title = \"펭귄 종별 부리 길이와 체중 관계\",\n    x = \"부리 길이 (mm)\",\n    y = \"체중 (g)\",\n    color = \"종\"\n  ) +\n  theme_minimal()\n\nWarning: Removed 2 rows containing missing values or values outside the scale range\n(`geom_point()`)."
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "RFE2025",
+    "section": "",
+    "text": "About\nSpecial Topics in R for Emergency Medical Services System\ndsadsd"
   }
 ]
