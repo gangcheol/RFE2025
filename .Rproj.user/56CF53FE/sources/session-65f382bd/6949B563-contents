@@ -9,7 +9,6 @@ website:
     left:
       - href: home.qmd
         text: "Home"
-      - about.qmd
     tools:
       - icon: twitter
         fref: https://twitter.com
