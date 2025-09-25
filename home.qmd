@@ -1,0 +1,9 @@
+---
+title: "RFE2025"
+---
+
+-   Special Topics in R for Emergency Medical Services System
+
+```{r}
+1 + 1
+```
